@@ -15,19 +15,5 @@
       <guid>//localhost:1313/posts/the_learning_journey_in_unit_01/</guid>
       <description>&lt;p&gt;In unit one of the course &amp;ldquo;Becoming a Reflective Information Scientist&amp;rdquo; I learned about DIKW model where D refers to data , I-information, K-knowledge, W-wisdom. This topic was not new for me , I heard these words before and many times we use this concept in real life but we do not know. Before learning this concept I thought these words information and knowledge are same but there is a little difference between them. Data is the most basic level, this can be raw facts or numbers, this is not enough to understand. When the data is well structured with explanation it becomes a  information. After understand the information we add our experience to make it knowledge and so on we take decision on the basis of this, called Wisdom. When I got this model  I search some real life examples that help me to understand it better. I found a example and apply this concept trying to figure out the DIKW.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>My Unit 01 Blog</title>
-      <link>//localhost:1313/posts/my-unit-01-blog/</link>
-      <pubDate>Sat, 14 Mar 2026 19:49:01 +0530</pubDate>
-      <guid>//localhost:1313/posts/my-unit-01-blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 18 Feb 2026 14:24:43 +0530</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;hi i am bhawani shankar . My major is information science and now i am doing the course Becomiung a reflective information scientist.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
